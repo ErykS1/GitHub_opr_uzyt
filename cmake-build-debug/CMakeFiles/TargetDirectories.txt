@@ -1,0 +1,3 @@
+C:/Users/MSI/CLionProjects/GitHub_opr_uzyt/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/MSI/CLionProjects/GitHub_opr_uzyt/cmake-build-debug/CMakeFiles/GitHub_opr_uzyt.dir
+C:/Users/MSI/CLionProjects/GitHub_opr_uzyt/cmake-build-debug/CMakeFiles/edit_cache.dir
